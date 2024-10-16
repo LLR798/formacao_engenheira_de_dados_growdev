@@ -16,8 +16,6 @@ Uma empresa que gerencia investimentos na bolsa de valores B3 precisa desenvolve
 ### Link para o Notebook:
 [Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/4417656920116746/4681527955680524/latest.html)
 
-<br>
-
 ### Link para o Dashboard
 [Dashboard](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/4417656920116746/4681527955680524/latest.html)
 
