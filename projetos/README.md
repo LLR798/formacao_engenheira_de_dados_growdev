@@ -8,7 +8,7 @@ Esta pasta contém os projetos desenvolvidos durante a formação de Engenharia 
 1. **Projeto 1**: 
    - O primeiro projeto de Análise de Influenciador no Instagram está disponível no link abaixo:
    - [Acesse o Projeto 1](https://github.com/LLR798/formacao_engenheira_de_dados_growdev/tree/main/projetos/projeto_1)
-<br>
+
 2. **Projeto 2**: 
    - O segundo projeto de Análise de Ações está disponível no link abaixo:
    - [Acesse o Projeto 2](https://github.com/LLR798/formacao_engenheira_de_dados_growdev/tree/main/projetos/projeto_2)
