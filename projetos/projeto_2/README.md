@@ -25,8 +25,8 @@ Uma empresa que gerencia investimentos na bolsa de valores B3 precisa desenvolve
 
 
 ### Documentações:
-[Biblioteca yfinance](https://pypi.org/project/yfinance/)
-[Api Bot do Telegram](https://core.telegram.org/bots/api)
+- [Biblioteca yfinance](https://pypi.org/project/yfinance/)
+- [Api Bot do Telegram](https://core.telegram.org/bots/api)
 
 
 ### Considerações Finais:
