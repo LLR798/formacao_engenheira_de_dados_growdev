@@ -14,14 +14,15 @@ Uma empresa que gerencia investimentos na bolsa de valores B3 precisa desenvolve
 - Alertas: Definição de critérios de alerta para notificar a equipe sobre variações anormais ou oportunidades de mercado.
 
 
-### Notebook:
-[Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/4417656920116746/4681527955680524/latest.html)
+### Notebooks:
+- [Monitoramento](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/4417656920116746/4681527955680524/latest.html)
+- [Integração Telegram](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/792803076492131/4681527955680524/latest.html)
 
 ### Dashboard:
-[Dashboard](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/4417656920116746/4681527955680524/latest.html)
+- [Dashboard](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/4417656920116746/4681527955680524/latest.html)
 
 ### Apresentação em PowerPoint:
-[Apresentação](https://docs.google.com/presentation/d/1CnxmEzCFdzFpkRhv6vMWNP_nwnbOl4dcmiojPyx-c1U/edit?usp=sharing)
+- [Apresentação](https://docs.google.com/presentation/d/1CnxmEzCFdzFpkRhv6vMWNP_nwnbOl4dcmiojPyx-c1U/edit?usp=sharing)
 
 
 ### Documentações:
