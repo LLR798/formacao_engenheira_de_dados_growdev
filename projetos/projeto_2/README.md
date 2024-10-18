@@ -15,8 +15,8 @@ Uma empresa que gerencia investimentos na bolsa de valores B3 precisa desenvolve
 
 
 ### Notebooks:
-- [Monitoramento](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/4417656920116746/4681527955680524/latest.html)
-- [Integração Telegram](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/792803076492131/4681527955680524/latest.html)
+- [Monitoramento](https://github.com/LLR798/formacao_engenheira_de_dados_growdev/blob/main/projetos/projeto_2/analise_de_acoes.ipynb)
+- [Integração Telegram](https://github.com/LLR798/formacao_engenheira_de_dados_growdev/blob/main/projetos/projeto_2/integracao_com_telegram.ipynb)
 
 ### Dashboard:
 - [Dashboard](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3981966564692036/4417656920116746/4681527955680524/latest.html)
